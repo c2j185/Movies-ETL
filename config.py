@@ -1,1 +1,1 @@
-db_password = 1234
+db_password = '2490'
